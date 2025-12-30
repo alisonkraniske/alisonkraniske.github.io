@@ -2,7 +2,7 @@
     Alison Kraniske
 </h1>
 <nav>
-    <a href="work.html">Work</a>
+    <a href="work">Work</a>
 </nav>
 <h3>
     Statement
