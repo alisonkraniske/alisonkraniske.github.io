@@ -1,6 +1,6 @@
 # Alison Kraniske
 
-[Work](work) | [Writing](writing.md)
+[Work](work.md) | [Writing](writing.md)
 
 ### Statement
 
