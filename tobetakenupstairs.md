@@ -12,5 +12,7 @@
 <img src="betterleo.jpg" alt="Alt text for accessibility" width="400">
 <img src="finn.jpg" alt="Alt text for accessibility" width="400">
         </div>
+           <div class="image-row">
 <img src="bee.jpg" alt="Alt text for accessibility" width="400">
 <img src="stair edge.jpg" alt="Alt text for accessibility" width="400">
+   </div>
