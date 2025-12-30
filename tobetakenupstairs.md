@@ -1,3 +1,6 @@
+<h1>To be taken upstairs</h1>
+<h2>2025</h2>
+<p>blown glass, sculpted porcelain, crocheted twine, recalaimed wood, purchased lights</p>
 <img src="stairsbestedited.jpg" alt="Alt text" width="500" style="display: block; margin: 0 auto;">
 
    <div class="image-row">
