@@ -13,5 +13,5 @@
 I revere simple gestures of form as well as specificity of subject matter, both inspired by the manner of Imagist poets. Poetry writing is consistently part of my practice, with streams of consciousness or short stanzas being realized in titles. Intuition is central, finding itself on the page, glassblowing bench, and potter's wheel, but also in the selection and assemblage of found objects. I work with natural and domestic found objects such as leaves, sticks, wood, furniture, and light bulbs, often putting them in conversation with traditionally made vessels. I am invested in what we cling to, whether it is object, belief, or process. Pairing the precisely hand made with the intuitively hand picked creates a record of intimacy that challenges prescribed values. Fluid, unpredictable lines move in and out of rigid symmetry, processed and factory made products become one with their raw or crafted counterparts, and the functionality of familiar objects is subverted. Subtle connections between material and form reach towards the inexplicability of emptiness. The vessel, like the chalk square, stands as a container for something more than itself. It stands as opportunity, begging to hold, but never fully holding.
 
 </p>
-<img src="stairsbestedited.jpg" alt="Alt text for accessibility">
+
 
