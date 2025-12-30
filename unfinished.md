@@ -1,4 +1,4 @@
-<h1>Unfinsihed cups of iced water</h1>
+<h1>Unfinished cups of iced water</h1>
 <p>
   Unfinished cups of ice water<br>
 now neutral to the touch<br>
