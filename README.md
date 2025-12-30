@@ -2,7 +2,6 @@
     Alison Kraniske
 </h1>
 <nav>
-    <a href="index.html">Home</a>
     <a href="work.html">Work</a>
 </nav>
 <h3>
