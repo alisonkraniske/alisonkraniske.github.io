@@ -1,4 +1,4 @@
-<img src="stairsbestedited.jpg" alt="Alt text for accessibility" width="500">
+<img src="stairsbestedited.jpg" alt="Alt text" width="500" style="display: block; margin: 0 auto;">
 
    <div class="image-row">
       <img src="pocketdetail.jpg" alt="Alt text for accessibility" width="400">
