@@ -3,7 +3,7 @@
 </h1>
 <nav>
     <a href="work.md">Work</a>
-    <a href="writing.md">Writing</a>
+    <a href="writing.html">Writing</a>
 </nav>
 <h3>
     Statement
