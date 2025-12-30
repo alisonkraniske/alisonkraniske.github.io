@@ -1,5 +1,4 @@
----
----
+
 
 # To be taken upstairs
 
@@ -15,7 +14,7 @@ blown glass, sculpted porcelain, crocheted twine, reclaimed wood, purchased ligh
 </div>
 
 <div class="image-row">
-    <img src="3 molds.jpg" alt="Three molds" width="400">
+    <img src="3molds.jpg" alt="Three molds" width="400">
     <img src="bettergoose.jpg" alt="Alt text for accessibility" width="400">
 </div>
 
@@ -26,5 +25,5 @@ blown glass, sculpted porcelain, crocheted twine, reclaimed wood, purchased ligh
 
 <div class="image-row">
     <img src="bee.jpg" alt="Alt text for accessibility" width="400">
-    <img src="stair edge.jpg" alt="Alt text for accessibility" width="400">
+    <img src="stairedge.jpg" alt="Alt text for accessibility" width="400">
 </div>
