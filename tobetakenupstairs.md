@@ -6,3 +6,4 @@
 <img src="bettergoose.jpg" alt="Alt text for accessibility" width="400">
 <img src="finn.jpg" alt="Alt text for accessibility" width="400">
 <img src="bee.jpg" alt="Alt text for accessibility" width="400">
+<img src="stairedge.jpg" alt="Alt text for accessibility" width="400">
