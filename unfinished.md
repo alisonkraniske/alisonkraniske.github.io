@@ -1,34 +1,26 @@
-<h1>Unfinished cups of iced water</h1>
-<p>
-  Unfinished cups of ice water<br>
-now neutral to the touch<br>
-stand at different levels<br>
-shoulder to shoulder on the counter. 
+# Unfinished cups of iced water
 
-The water<br>
-and the emptiness<br>
-and the vessel<br>
-are one
-
-just as the negative space in trees<br>
-where wind plays<br>
-becomes dapples of light<br>
-on the pavement.
-
-Shadows falling down<br>
-cut sharper than any knife<br>
-but land more gently<br> 
-than any leaf.
-
-Untouched by time where<br>
-water cannot flow<br>
-looking out and<br>
-looking through-
-
-perhaps I prefer<br>
-the blackbird whistling.
-
-I have always said<br>
+Unfinished cups of ice water  
+now neutral to the touch  
+stand at different levels  
+shoulder to shoulder on the counter.  
+The water  
+and the emptiness  
+and the vessel  
+are one  
+just as the negative space in trees  
+where wind plays  
+becomes dapples of light  
+on the pavement.  
+Shadows falling down  
+cut sharper than any knife  
+but land more gently  
+than any leaf.  
+Untouched by time where  
+water cannot flow  
+looking out and  
+looking through-  
+perhaps I prefer  
+the blackbird whistling.  
+I have always said  
 just after.
-
-</p>
